@@ -233,9 +233,8 @@ if (password.length < 6) {
           </form>
 
           {isLogin && (
-            <p className="text-white/60 text-xs text-center mt-4">
-              Admin: admin@admin.com / 1234
-            </p>
+           
+        
           )}
         </div>
       </div>
