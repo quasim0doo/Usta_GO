@@ -34,7 +34,7 @@ function HamburgerMenu({ isOpen, onClose }) {
         {/* Header */}
         <div className="blue-gradient-bg p-6">
           <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-black text-white">Menu</h2>
+            <h2 className="text-2xl font-black text-white">Menü</h2>
             <button 
               onClick={onClose}
               className="w-10 h-10 bg-white/20 backdrop-blur rounded-xl flex items-center justify-center"
